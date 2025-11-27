@@ -67,7 +67,3 @@ Rana Usman
 Frontend & MERN Stack Developer
 GitHub: https://github.com/Usman-Rajput45
 
-If you want, I can also make:
-🔥 A responsive version guide
-🎨 A modern redesign suggestion
-📘 A roadmap for converting it into a real gym website
